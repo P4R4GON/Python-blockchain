@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#033429",
+        "titleBar.activeBackground": "#04493A",
+        "titleBar.activeForeground": "#EDFEFA"
+    },
+    "python.pythonPath": "/home/nopc/anaconda3/bin/python"
+}
