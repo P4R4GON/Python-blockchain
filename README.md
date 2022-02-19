@@ -51,4 +51,3 @@ If you find any bugs do let me know 🙂
 Donations to motivate me to keep improving: 
 ETH: 0x918e0657cC31eDfCFC28C0270f52DEa0362234B0
 BTC: bc1qkrp4gzv8ftul4qwels2a8gzlgv6x860y8hpwjc
-QRL: 
