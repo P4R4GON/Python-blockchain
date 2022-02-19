@@ -1,9 +1,7 @@
-# DeepCoin
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A Scrapy Idea to Create My Own CryptoCurrency
+A Python CryptoCurrency Blockchain
 
 
 ### Built With
@@ -47,18 +45,4 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-<!-- CONTACT -->
-## Contact Me
-
-**Deepankar Jain -** 
-
-[LinkedIn](https://www.linkedin.com/in/decipher07/)
-
-[Email](social.deej@gmail.com)
-
-**Project Link -** [GitHub](https://github.com/decipher07/DeepCoin.git)
-
-
 
