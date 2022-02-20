@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a Python CryptoCurrency Blockchain
+A Python CryptoCurrency Blockchain
 
 
 ### Built With
